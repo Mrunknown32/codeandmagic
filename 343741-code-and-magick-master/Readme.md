@@ -1,7 +1,5 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Алексей Копасов](https://up.htmlacademy.ru/javascript/16/user/343741).
-* Наставник: [Сергей Ufocoder](https://htmlacademy.ru/profile/id573445).
 
 ---
 
